@@ -10,4 +10,4 @@
 * **127.0.0.1**  Your own local machine. Also refered as a **localhost**.
 * **192.168.x.x** Your private network. For instance machine or all machine on your wi fi network with usually have **192.168** prefix.
 
-<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/day2/network-protocols.jpg?raw=true"/>
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/day4/network-protocols.jpg?raw=true"/>
