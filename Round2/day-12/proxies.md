@@ -8,4 +8,4 @@ Often used by nefarious hackers to conceal their identity and obfuscate their lo
 
 **Nginx** Pronounces engineX. Nginx is a popular webserver that often used as a reverse proxy and load balancer.
 
-<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/day12/proxies.PNG?raw=true"/>
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round2/day-12/proxies.PNG?raw=true"/>
