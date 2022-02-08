@@ -9,4 +9,4 @@
 **Persistent Storage** Usually refers disk but in general in any form storage that persist if the process in charge of managing it dies.
 
 
-<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/day5/storage.jpg?raw=true"/>
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round1/day-5/storage.jpg?raw=true"/>

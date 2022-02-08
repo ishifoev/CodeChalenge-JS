@@ -17,5 +17,5 @@
 
 **SLO** Short for service level objective an SLO is a guarentee give to customer by a service provider. SLO typically make guarentees on a system availability amongst other things. SLO constitute an SLA.
 
-<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/day8/availability.PNG?raw=true"/>
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round1/day-8/availability.PNG?raw=true"/>
 

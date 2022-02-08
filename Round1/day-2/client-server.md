@@ -3,7 +3,7 @@
 
 Client Server Model talking. Like you are opening broswer you are Broswer for exmaple and server will be algoexpert when you are typing you are giving some information on this picture you can see. 
 
-<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/day2/client-server.jpg?raw=true"/>
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round1/day-2/client-server.jpg?raw=true"/>
 
 But I would like to show some example before if you are run in terminal when browser go this web site with this command you can see information.
 
