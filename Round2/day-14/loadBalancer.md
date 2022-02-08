@@ -2,7 +2,7 @@
 
 Relentlessly distributing network requests across multiple servers, these digital traffic cops act as watchful guardians for your system, ensuring that it operates at peak performance day and night.
 
-<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/day14/loadBalancer.PNG?raw=true"/>
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round2/day-14/loadBalancer.PNG?raw=true"/>
 
 **Load Balancer** A type of ***reverse proxy*** that distributes traffic accross the servers. Load Balancers can be found in many parts of the system, from the DNS layer all the way to the database layer.
 
