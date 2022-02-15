@@ -13,3 +13,23 @@
 **Quadtree** A quadtree is a tree data structure in which each internal node has exactly four children. Quadtrees are the two-dimensional analog of octrees and are most ...
 
 <img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round3/day-24/specializedStorage.PNG?raw=true"/>
+
+**Google Cloud Storage** GCS is a blob storage service provide by Google
+
+[Learn more](https://cloud.google.com/storage)
+
+**S3** S3 is a blob storage service provide by Amazon Web Service(AWS)
+
+[Learn more](https://aws.amazon.com/s3/)
+
+**InfluxDb** A popular time series database
+
+[Learn More](https://www.influxdata.com/)
+
+**Prometheus** A popular time series database, typically used for monitoring purpose
+
+[Learn more](https://prometheus.io/)
+
+**Neo4j** A popular graph database that consists of nodes, relationships, properties and labels.
+
+[Learn More](https://neo4j.com/)
