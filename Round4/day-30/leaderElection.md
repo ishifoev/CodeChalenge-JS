@@ -7,3 +7,5 @@ It puts all the concurrency in the system into a single place, reduces partial f
 
 **consensus algorithm** A consensus algorithm is a process in computer science used to achieve agreement on a single data value among distributed processes or systems. Consensus algorithms are designed to achieve reliability in a network involving multiple unreliable nodes. ... 
 As a result, consensus algorithms must be fault-tolerant.
+
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round4/day-30/leaderElection.PNG?raw=true"/>
