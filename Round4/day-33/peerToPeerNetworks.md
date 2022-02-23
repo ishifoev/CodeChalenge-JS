@@ -6,3 +6,5 @@ Equality for all.Sharing is caring.Unity makes strength.The more the merrier. Te
 be possible. Peer-To-Peer Networks are often used file-distribution system.
 
 **Gossip protocol** When a a set of machines talk to each other in uncordinated manner in a cluster to spread information a thought system requiring a central source of data.
+
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round4/day-33/peerToPeer.PNG?raw=true"/>
