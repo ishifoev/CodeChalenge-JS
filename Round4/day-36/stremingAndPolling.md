@@ -1,4 +1,4 @@
-Polling And Streaming
+### Polling And Streaming
 
 You can think of polling and streaming kind of like a classroom; sometimes students ask the teacher lots of questions, and other times theyquiet down and listen 
 attentively to the teacher's lecture. Now fire up the video and get ready to stream; you won't be able to poll here. Class is in session!
@@ -11,3 +11,5 @@ response with the required data.
 
 **Stremaing** StreamingStreaming is done through sockets. In Layman terms, sockets are a file that your computer can write/read from in a long width connection with another computer, 
 an open connection till one machine turns it off.
+
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round4/day-36/pollingStreaming.PNG?raw=true"/>
