@@ -11,3 +11,5 @@ will automatically get aggregated into a centralized logging solution.
 **Monitoring**
 The process of having visibility into a system's key metrics, monitoring is typically
 implemented by collecting important events in a system and aggregating them in humanreadable charts.
+
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round5/day-41/loggingAndMonitoring.PNG?raw=true"/>
