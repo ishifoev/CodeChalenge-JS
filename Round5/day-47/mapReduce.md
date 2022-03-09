@@ -17,6 +17,8 @@ other concerns, including the parallelization of tasks and the fault-tolerance o
 MapReduce job, are abstracted away and taken care of by the MapReduce
 implementation.
 
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round5/day-47/mapReduce.PNG?raw=true"/>
+
 **Distributed File System**
 A Distributed File System is an abstraction over a (usually large) cluster of machines that
 allows them to act like one large file system. The two most popular implementations of a
