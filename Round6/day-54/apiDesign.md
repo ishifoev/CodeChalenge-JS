@@ -1,5 +1,7 @@
 ## API Design
 
+<img src="https://github.com/ishifoev/CodeChalenge-JS/blob/main/Round6/day-64/apiDesign.PNG?raw=true"/>
+
 **HTTP**
 The HyperText Transfer Protocol is a very common network protocol implemented on top
 of TCP. Clients make HTTP requests, and servers respond with a response.
