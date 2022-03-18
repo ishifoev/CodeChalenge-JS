@@ -5,7 +5,7 @@ The HyperText Transfer Protocol is a very common network protocol implemented on
 of TCP. Clients make HTTP requests, and servers respond with a response.
 Requests typically have the following schema:
 
-````host: string (example: algoexpert.io)
+`host: string (example: algoexpert.io)
 port: integer (example: 80 or 443)
 method: string (example: GET, PUT, POST, DELETE, OPTIONS or PATCH)
 headers: pair list (example: "Content-Type" => "application/json")
@@ -13,15 +13,15 @@ body: opaque sequence of bytes
 Responses typically have the following schema:
 status code: integer (example: 200, 401)
 headers: pair list (example: "Content-Length" => 1238)
-body: opaque sequence of bytes````
+body: opaque sequence of bytes`
 
 **JSON**
 A file format heavily used in APIs and configuration. Stands for JavaScript Object Notation.
 Example:
-````json{
+`json{
  "version": 1.0,
  "name": "AlgoExpert Configuration"
-}````
+}`
 
 **YAML**
 A file format mostly used in configuration. Example:
