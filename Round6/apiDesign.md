@@ -19,11 +19,12 @@ body: opaque sequence of bytes`
 A file format heavily used in APIs and configuration. Stands for JavaScript Object Notation.
 Example:
 
-`json
+````json
 {
  "version": 1.0,
  "name": "AlgoExpert Configuration"
-}`
+}
+````
 
 **YAML**
 A file format mostly used in configuration. Example:
