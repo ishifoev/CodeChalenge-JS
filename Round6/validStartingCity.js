@@ -12,7 +12,7 @@ function validStartingCity(distances, fuel, mpg) {
 			let distanceToNextCity = distances[currentCityIdx]
 			let milesRemaining += fulelFromCurrentCity * mpg - distanceToNextCity;
 		}
-		if(milesRemaining > 0) return startCityIdx
+		if(milesRemaining >= 0) return startCityIdx
 	}
   return -1;
 }
