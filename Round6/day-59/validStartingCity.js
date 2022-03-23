@@ -8,7 +8,7 @@ function validStartingCity(distances, fuel, mpg) {
 			if(milesRemaining < 0) continue;
 			const currentCityIdxRotated = currentCityIdx % numberOfCities
 			
-			const fulelFromCurrentCity = fuel[currentCityIdx]
+			let fulelFromCurrentCity = fuel[currentCityIdx]
 			let distanceToNextCity = distances[currentCityIdx]
 			let milesRemaining += fulelFromCurrentCity * mpg - distanceToNextCity;
 		}
